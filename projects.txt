@@ -5,7 +5,7 @@
 <h1>Projects</h1>
 
 <ul>
-	<p>Database Project</p>
+	<p><Database Project></p>
 	<p>Projects using C#</p>
 	<p>Projects using WPF</p>
 	<p>Projects using HTML</p>
